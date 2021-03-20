@@ -15,5 +15,6 @@ namespace Parcial1_AnaMarcaAngola.Models
         [Required]
         public float Price { get; set; }
         public float LastBuy { get; set; }
+
     }
 }
