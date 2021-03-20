@@ -1,0 +1,3 @@
+@Imports Parcial1_AnaMarca.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
